@@ -7,7 +7,7 @@ a.flag {
   position: absolute;
   top: 0;
   right: 0;
-  font-size: 60px; /* increase the font size to 100px */
+  font-size: 30px; /* increase the font size to 100px */
 }
 
 /* Styles for the centered class */
