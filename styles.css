@@ -1,0 +1,99 @@
+/* Base styles for the body element */
+body {
+  background-color: black;
+}
+
+/* Styles for the centered class */
+.centered {
+  width: 1080px;
+  height: 1920px;
+  text-align: center;
+  color: white;
+}
+
+/* Styles for the youtube-link class */
+.youtube-link {
+  display: inline-block;
+  font-size: 45px;
+  padding: 8px;
+  background-color: #cc181e;
+  color: white;
+  border-radius: 8px;
+  width: 600px;
+  height: 40px;
+  font-weight: bold;
+}
+
+/* Styles for the instagram-link class */
+.instagram-link {
+  font-size: 20px;
+  padding: 4px;
+  width: 250px;
+  height: 25px;
+}
+
+/* Styles for the marquee element */
+marquee {
+  height: 90vh;
+  width: 160vw;
+  background-color: black;
+  color: white;
+}
+
+/* Styles for the h1 element */
+h1 {
+  font-size: 75px;
+  margin-bottom: 10px;
+}
+
+
+
+/* Styles for the p element */
+p {
+  font-size: 40px;
+  margin: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+}
+/* Styles for the h1 element */
+h1 {
+  font-size: 150px; /* increase the font size to 100px */
+  margin-bottom: 10px;
+}
+
+/* Styles for the p element */
+p {
+  font-size: 45px; /* decrease the font size to 30px */
+  margin: 20px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Styles for the a element */
+a {
+  color: white;
+  text-decoration: none;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a::before,
+a::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+}
+
+a::before {
+  top: 0;
+  left: 0;
+}
+
+<p class="love-you">&#x1F49B; LOVE YOU &#x1F49B;</p>
+
