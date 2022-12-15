@@ -2,6 +2,13 @@
 body {
   background-color: black;
 }
+/* Styles for the flag emoji */
+a.flag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 100px; /* increase the font size to 100px */
+}
 
 /* Styles for the centered class */
 .centered {
