@@ -6,7 +6,7 @@ body {
 a.flag {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 10;
   font-size: 100px; /* increase the font size to 100px */
 }
 
