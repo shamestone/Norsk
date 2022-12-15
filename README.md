@@ -1,0 +1,2 @@
+# Skammestein
+NORSK
