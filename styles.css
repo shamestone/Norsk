@@ -2,13 +2,6 @@
 body {
   background-color: black;
 }
-/* Styles for the flag emoji */
-a.flag {
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-size: 50px; /* increase the font size to 100px */
-}
 
 /* Styles for the centered class */
 .centered {
@@ -17,17 +10,24 @@ a.flag {
   text-align: center;
   color: white;
 }
+/* Styles for the flag emoji */
+a.flag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 50px; /* increase the font size to 100px */
+}
 
 /* Styles for the youtube-link class */
 .youtube-link {
   display: inline-block;
-  font-size: 25px;
+  font-size: 40px;
   padding: 8px;
   background-color: #cc181e;
   color: white;
   border-radius: 8px;
   width: 600px;
-  height: 35px;
+  height: 50px;
   font-weight: bold;
 }
 
